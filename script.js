@@ -4,7 +4,9 @@ for (i = 1; i <=7; i++){
 
 console.log(`============`);
 
-for (i = 5; i <= 25; i += 4);
+for (i = 5; i <= 25; i += 4){
+    console.log(i)
+}
 
 const wizards =[
     `Harry Potter`
